@@ -1,2 +1,2 @@
 # React.sample
-study
+ReactでTodo管理アプリを作成
